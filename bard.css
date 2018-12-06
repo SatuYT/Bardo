@@ -1,0 +1,9 @@
+
+#marco{margin:300px;margin-top: 100px;padding: 20px}
+h1{border-bottom-style: solid;border-bottom-color: #300000;font-size: 50px}
+#creyente{color:white;border-bottom-style:solid;border-bottom-color: #300000;border-width: 2px}
+#VOX{color:white;border-bottom-style:solid;border-bottom-color: #300000;border-width: 2px}
+#marco{border-style: solid;border-color:#300000;border-width:5px;background-color:rgb(114, 2, 2);font-style: initial}
+form{align:center}
+p{font-size: 40px; text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;}
+form input{size: 30px}
